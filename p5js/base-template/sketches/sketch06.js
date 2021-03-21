@@ -1,7 +1,7 @@
-var sketch02 = function ( p ) {
+var sketch06 = function ( p ) {
   
     p.setup = function() {
-      p.createCanvas(200, 400);
+      p.createCanvas(300, 400);
     };
   
     p.draw = function() {
@@ -12,4 +12,4 @@ var sketch02 = function ( p ) {
   
   };
   
-  var myp5 = new p5(sketch02, 's2');
+  var myp5 = new p5(sketch06, 's6');

@@ -1,22 +1,69 @@
-#sketches {
-    margin: auto;
-    margin-top: 50px;
+.row {
+    height: 450px;
+    background-color: white;
+    float:none;
+    position: relative;
 }
 
 #s1 {
-    margin-left: 50px;
-    margin-top:50px;
+    margin: 25px 0 0 50px;
+    background-color:#efefef;
+    width:600px;
+    height:400px;
+    float:left;
+    position: relative;
+}
+
+#s2 {
+    margin: 25px 0 0 50px;
+    background-color:#efefef;
+    width:200px;
+    height:400px;
+    float:left;
+    position: relative;
+}
+
+#s3 {
+    margin: 25px 0 0 50px;
     background-color:#efefef;
     width:400px;
     height:400px;
     float:left;
+    position: relative;
 }
 
-#s2 {
-    margin-left: 50px;
-    margin-top:50px;
+#s4 {
+    margin: 25px 0 0 50px;
     background-color:#efefef;
     width:400px;
     height:400px;
-    float:left
+    float:left;
+    position: relative;
+}
+
+#s5 {
+    margin: 25px 0 0 50px;
+    background-color:#efefef;
+    width:850px;
+    height:400px;
+    float:left;
+    position: relative;
+}
+
+#s6 {
+    margin: 25px 0 0 50px;
+    background-color:#efefef;
+    width:300px;
+    height:400px;
+    float:left;
+    position: relative;
+}
+
+#s7 {
+    margin: 25px 0 0 50px;
+    background-color:#efefef;
+    width:500px;
+    height:400px;
+    float:left;
+    position: relative;
 }
